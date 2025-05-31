@@ -45,21 +45,21 @@ Download VS Code
 
 3. Copie o link HTTPS do repositório. Exemplo:
 
-- https://github.com/seu-usuario/seu-repositorio.git
+- `https://github.com/seu-usuario/seu-repositorio.git`
 
 3. Abra seu terminal (Terminal do VS Code, CMD, PowerShell, etc).
 
 5. Navegue até a pasta onde quer salvar o projeto, por exemplo:
 
-- cd ~/Documentos/Projetos
+- `cd ~/Documentos/Projetos`
 
 5. Clone o repositório:
 
-- git clone https://github.com/seu-usuario/seu-repositorio.git
+- `git clone https://github.com/seu-usuario/seu-repositorio.git`
 
 6. Entre na pasta do projeto:
 
-- cd nome-do-repositorio
+- `cd nome-do-repositorio`
   
 🔸 Pronto! Agora você pode instalar as dependências e rodar o projeto localmente.
 
@@ -69,7 +69,7 @@ Download VS Code
 
 No terminal, rode:
 
-- npm install
+- `npm install`
 
 #
 
@@ -77,7 +77,7 @@ No terminal, rode:
 
 No terminal, rode:
 
-- npx playwright install
+- `npx playwright install`
 
 #
 
@@ -85,15 +85,15 @@ No terminal, rode:
 
 1. Execução padrão (headless, sem abrir navegador):
 
-- npm run test
+- `npm run test`
 
 2. Com navegador visível (headed):
 
-- npm run test:headed
+- `npm run test:headed`
 
 3. Execução mais lenta, para acompanhar visualmente:
 
-- npm run test:ui
+- `npm run test:ui`
 
 #
 
@@ -101,11 +101,11 @@ No terminal, rode:
 
 1. Só os relatórios de evidências:
 
-- npm run clean:report
+- `npm run clean:report`
 
 2. Tudo (evidências e resultados):
 
-- npm run clean:all
+- `npm run clean:all`
 
 #
 
@@ -113,7 +113,7 @@ No terminal, rode:
 
 Após rodar os testes, abra o relatório com:
 
-- npm run report
+- `npm run report`
 
 Ou vá direto na pasta evidencias/report e abra o arquivo index.html no navegador.
 
