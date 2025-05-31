@@ -36,6 +36,7 @@ Download VS Code
 
 ⚙️ O Playwright será instalado automaticamente nas dependências do projeto.
 
+#
 
 ### 📝 Instalação
 
@@ -61,9 +62,9 @@ Download VS Code
   
 🔸 Pronto! Agora você pode instalar as dependências e rodar o projeto localmente.
 
+---
 
---
-### Instalando as dependências:
+### 🛠️ Instalando as dependências:
 
 No prompt: npm install
 
