@@ -19,7 +19,6 @@ A estrutura de pastas principal é:
 - `playwright.config.js`: Arquivo de configuração do Playwright.
 - `package.json`: Dependências e scripts do projeto.
 
----
 
 ## 🚀 Como Executar o Projeto
 
