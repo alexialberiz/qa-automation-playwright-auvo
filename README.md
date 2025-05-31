@@ -5,10 +5,7 @@ Este projeto foi desenvolvido como parte de um desafio técnico para uma vaga na
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- ![Playwright](https://img.shields.io/badge/Playwright-000000?logo=playwright&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-- ![VS Code](https://code.visualstudio.com/assets/images/code-stable.png)
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/> <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="50" height="50"/> </p>
 
 ---
 
