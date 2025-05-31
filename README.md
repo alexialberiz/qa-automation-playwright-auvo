@@ -27,13 +27,10 @@ A estrutura de pastas principal é:
 Antes de rodar o projeto, tenha instalado na sua máquina:
 
 Node.js (versão 18 ou superior) — gerencia os pacotes e executa os testes
-Download Node.js
 
 Git — para clonar e versionar o código
-Download Git
 
 Visual Studio Code (ou outro editor que preferir)
-Download VS Code
 
 ⚙️ O Playwright será instalado automaticamente nas dependências do projeto.
 
