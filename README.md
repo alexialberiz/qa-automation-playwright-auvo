@@ -4,6 +4,7 @@ Este projeto foi desenvolvido como parte de um desafio técnico para uma vaga na
 
 
 ## 🛠️ Tecnologias Utilizadas
+
 | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>](https://nodejs.org/) | [<img src="https://playwright.dev/img/playwright-logo.svg" width="40"/>](https://playwright.dev/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40"/>](https://code.visualstudio.com/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>](https://github.com/) |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
 |                                                 [**JavaScript**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)                                                |                                              [**Node.js**](https://nodejs.org/)                                              |                             [**Playwright**](https://playwright.dev/)                             |                                            [**Visual Studio Code**](https://code.visualstudio.com/)                                            |                                               [**GitHub**](https://github.com/)                                              |
@@ -62,56 +63,70 @@ Download VS Code
   
 🔸 Pronto! Agora você pode instalar as dependências e rodar o projeto localmente.
 
----
+#
 
-### 🛠️ Instalando as dependências:
+### ⚙️ Instalando as dependências:
 
-No prompt: npm install
+No terminal, rode:
 
-### Instalando os browsers do Playwright:
+- npm install
 
-No prompt: npx playwright install
+#
 
+### 🌐 Instalando os browsers do Playwright:
+
+No terminal, rode:
+
+- npx playwright install
+
+#
 
 ### 🧪 Executando os testes
 
-### Execução padrão (headless - sem abrir navegador):
+1. Execução padrão (headless, sem abrir navegador):
 
-No prompt: npm run test
+- npm run test
 
-### Execução com navegador visível (headed):
+2. Com navegador visível (headed):
 
-No prompt: npm run test:headed
+- npm run test:headed
 
-### Execução com navegação mais lenta (útil para análise visual):
+3. Execução mais lenta, para acompanhar visualmente:
 
-No prompt: npm run test:ui
+- npm run test:ui
 
-### Limpeza de evidências e resultados antigos
-   
-   🔸 Limpar apenas os relatórios de evidências:
+#
 
-No prompt: npm run clean:report
+### 🧹 Limpando resultados e evidências antigas
 
-   🔸 Limpar todos os resultados e evidências:
+1. Só os relatórios de evidências:
 
-No prompt: npm run clean:all
+- npm run clean:report
 
-### Acessando o relatório de testes
+2. Tudo (evidências e resultados):
 
-Após executar qualquer teste, você pode abrir o relatório com:
+- npm run clean:all
 
-No prompt: npm run report
+#
 
-Ou diretamente acessando a pasta /evidencias/report e abrindo o arquivo index.html no navegador.
+### 📊 Acessando o relatório
 
----
+Após rodar os testes, abra o relatório com:
+
+- npm run report
+
+Ou vá direto na pasta evidencias/report e abra o arquivo index.html no navegador.
+
+#
+
 ### 🧠 Decisões e Suposições
 
 - Playwright por sua facilidade e suporte nativo a múltiplos navegadores.
 - Padrão POM para melhor organização e manutenção do código.
 - Testes rodando em modo não-headless para facilitar visualização durante desenvolvimento.
----
+
+#
+
 ### 👩🏽‍💻 Autor e Licença
 
 Projeto desenvolvido por Alexia Alberiz.
