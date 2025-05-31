@@ -2,7 +2,6 @@
 
 Este projeto foi desenvolvido como parte de um desafio técnico para uma vaga na empresa Auvo Tecnologia. O objetivo é automatizar cenários utilizando a ferramenta **Playwright**, aplicando boas práticas com a arquitetura **Page Object Model (POM)**.
 
----
 
 ## 🛠️ Tecnologias Utilizadas
 | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>](https://nodejs.org/) | [<img src="https://playwright.dev/img/playwright-logo.svg" width="40"/>](https://playwright.dev/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>](https://code.visualstudio.com/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>](https://github.com/) |
