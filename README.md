@@ -95,6 +95,7 @@ Após executar qualquer teste, você pode abrir o relatório com:
 No prompt: npm run report
 
 Ou diretamente acessando a pasta /evidencias/report e abrindo o arquivo index.html no navegador.
+
 ---
 ### 🧠 Decisões e Suposições
 
@@ -103,6 +104,7 @@ Ou diretamente acessando a pasta /evidencias/report e abrindo o arquivo index.ht
 - Testes rodando em modo não-headless para facilitar visualização durante desenvolvimento.
 ---
 ### 👩🏽‍💻 Autor e Licença
+
 Projeto desenvolvido por Alexia Alberiz.
 Licença: ISC
 
