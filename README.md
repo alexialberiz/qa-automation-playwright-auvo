@@ -95,13 +95,13 @@ Após executar qualquer teste, você pode abrir o relatório com:
 No prompt: npm run report
 
 Ou diretamente acessando a pasta /evidencias/report e abrindo o arquivo index.html no navegador.
-
+---
 ### 🧠 Decisões e Suposições
 
 - Playwright por sua facilidade e suporte nativo a múltiplos navegadores.
 - Padrão POM para melhor organização e manutenção do código.
 - Testes rodando em modo não-headless para facilitar visualização durante desenvolvimento.
-
+---
 ### 👩🏽‍💻 Autor e Licença
 Projeto desenvolvido por Alexia Alberiz.
 Licença: ISC
