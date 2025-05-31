@@ -36,26 +36,29 @@ Download VS Code
 
 ⚙️ O Playwright será instalado automaticamente nas dependências do projeto.
 
----
 
 ### 📝 Instalação
 
-1. Clone este repositório:
-2. No repositório que você quer do GitHub, clique no botão verde <> Code.
-3. Copie o link que aparece (geralmente vem assim: https://github.com/seu-usuario/seu-repositorio.git).
-4. Abra o terminal (pode ser o terminal do VS Code, CMD, Powershell ou outro).
-5. Navegue até a pasta onde você quer salvar o projeto.
-6. Digite o comando:
+1. No GitHub, vá no seu repositório e clique no botão verde Code.
+2. Copie o link HTTPS do repositório. Exemplo:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+- https://github.com/seu-usuario/seu-repositorio.git
 
-7. Aperte Enter.
+3. Abra seu terminal (Terminal do VS Code, CMD, PowerShell, etc).
+4. Navegue até a pasta onde quer salvar o projeto, por exemplo:
 
-8. Após clonar, acesse a pasta do projeto:
+- cd ~/Documentos/Projetos
 
-cd nome-do-repositorio
+5. Clone o repositório:
 
+- git clone https://github.com/seu-usuario/seu-repositorio.git
+
+6. Entre na pasta do projeto:
+
+- cd nome-do-repositorio
+- 
 🔸 Pronto! Agora você pode instalar as dependências e rodar o projeto localmente.
+
 
 ### Instalando as dependências:
 
