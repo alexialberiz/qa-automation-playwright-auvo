@@ -40,12 +40,14 @@ Download VS Code
 ### 📝 Instalação
 
 1. No GitHub, vá no seu repositório e clique no botão verde Code.
-2. Copie o link HTTPS do repositório. Exemplo:
+
+3. Copie o link HTTPS do repositório. Exemplo:
 
 - https://github.com/seu-usuario/seu-repositorio.git
 
 3. Abra seu terminal (Terminal do VS Code, CMD, PowerShell, etc).
-4. Navegue até a pasta onde quer salvar o projeto, por exemplo:
+
+5. Navegue até a pasta onde quer salvar o projeto, por exemplo:
 
 - cd ~/Documentos/Projetos
 
@@ -56,10 +58,11 @@ Download VS Code
 6. Entre na pasta do projeto:
 
 - cd nome-do-repositorio
-- 
+  
 🔸 Pronto! Agora você pode instalar as dependências e rodar o projeto localmente.
 
 
+--
 ### Instalando as dependências:
 
 No prompt: npm install
