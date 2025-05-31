@@ -38,7 +38,7 @@ Visual Studio Code (ou outro editor que preferir)
 
 ### 📝 Instalação
 
-1. No GitHub, vá no seu repositório e clique no botão verde Code.
+1. No GitHub, acesse esse mesmo repositório (qa_automation_playwright_auvo) e clique no botão verde Code.
 
 3. Copie o link HTTPS do repositório. Exemplo:
 
