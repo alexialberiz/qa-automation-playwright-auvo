@@ -22,19 +22,21 @@ A estrutura de pastas principal é:
 
 ## 🚀 Como Executar o Projeto
 
-### 🔧 Pré-requisitos
+🔧 Pré-requisitos
+Antes de rodar o projeto, tenha instalado na sua máquina:
 
-Para executar este projeto de automação de testes é necessário ter instalado na sua máquina as seguintes ferramentas:
+Node.js (versão 18 ou superior) — gerencia os pacotes e executa os testes
+Download Node.js
 
-- Node.js (versão 18 ou superior)
+Git — para clonar e versionar o código
+Download Git
 
-- Git
+Visual Studio Code (ou outro editor que preferir)
+Download VS Code
 
-- Visual Studio Code (ou qualquer outro editor de sua preferência)
+⚙️ O Playwright será instalado automaticamente nas dependências do projeto.
 
-- Playwright — será instalado automaticamente com os comandos abaixo
-
-⚙️ Observação: É necessário ter o Node.js instalado para gerenciar os pacotes e executar os testes.
+---
 
 ### 📝 Instalação
 
