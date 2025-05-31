@@ -1,0 +1,27 @@
+{
+  "name": "desafio_auvo",
+  "version": "1.0.0",
+  "description": "Desafio de automação com Playwright",
+  "main": "index.js",
+  "type": "module",
+ "scripts": {
+  "test": "npx playwright test",
+  "test:headed": "npx playwright test --headed",
+  "test:debug": "npx playwright test --debug",
+  "test:ui": "npx playwright test --headed --slow-mo=500",
+  "report": "npx playwright show-report evidencias/report",
+  "clean:evidencias": "rimraf evidencias",
+  "clean:results": "rimraf results",
+  "clean:all": "npm run clean:evidencias && npm run clean:results",
+  "install:browser": "npx playwright install",
+  "test:clean-run": "npm run clean:all && npm run test",
+  "test:headed-clean": "npm run clean:all && npm run test:headed"
+},
+  "keywords": [],
+  "author": "Alexia Alberiz",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "rimraf": "^6.0.1"
+  }
+}
