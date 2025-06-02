@@ -1,6 +1,6 @@
 # 🚀 Automatização de Teste End-to-End com Playwright + JavaScript
 
-Este projeto foi desenvolvido como parte de um desafio técnico para um aprendizado acelerado. O objetivo é automatizar cenários utilizando a ferramenta **Playwright**, aplicando boas práticas com a arquitetura **Page Object Model (POM)**.
+Este projeto foi desenvolvido como parte de um desafio técnico para um aprendizado acelerado e teste para a empresa Auvo. O objetivo é automatizar cenários utilizando a ferramenta **Playwright**, aplicando boas práticas com a arquitetura **Page Object Model (POM)**.
 
 
 ## 🛠️ Tecnologias Utilizadas
